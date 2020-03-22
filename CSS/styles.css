@@ -507,6 +507,8 @@ footer{
     }
     
     .h1-insurance{
+      position: relative;
+        z-index: 10;
         margin-bottom: 4vw;
     }
     .h1-humanizing{
