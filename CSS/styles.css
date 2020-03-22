@@ -606,7 +606,7 @@ footer{
         line-height: 7.8vw;}
         
     .third_section{
-        background-image: url(images/bg-pattern-how-we-work-mobile.svg);
+        background-image: url("../images/bg-pattern-how-we-work-mobile.svg");
         background-color: hsl(256, 26%, 20%);
         background-repeat: no-repeat;
         background-position: right top;
